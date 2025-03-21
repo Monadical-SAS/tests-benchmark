@@ -1,0 +1,6 @@
+{
+    "files": {
+      "solution": ["my_exercise.py"],
+      "test": ["my_exercise_test.py"]
+    }
+}
